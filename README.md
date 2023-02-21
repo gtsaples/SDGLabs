@@ -15,4 +15,5 @@ The third cell contains a scenario about advertisements and marketing campaigns 
 ## SDGLabs Model 2
 
 The previous qualitative model has been transformed in a quantitative model. Please use the link below (or the corresponding notebook) to test different scenarios
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gtsaples/SDGLabs/HEAD?labpath=SDGLabs_model_2.ipynb)
