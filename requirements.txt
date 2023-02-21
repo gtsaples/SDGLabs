@@ -1,0 +1,4 @@
+
+matplotlib==3.7.0
+pysd==3.9.0
+ipywidgets==7.6.5
